@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Akash-005-fs/ams-demo.git/static/css/main.739840c1.css",
-    "main.js": "/Akash-005-fs/ams-demo.git/static/js/main.51cee23c.js",
-    "static/js/453.b3889c6c.chunk.js": "/Akash-005-fs/ams-demo.git/static/js/453.b3889c6c.chunk.js",
-    "static/media/borcelle.png": "/Akash-005-fs/ams-demo.git/static/media/borcelle.7f07ad0c3f4213ebf561.png",
-    "static/media/borcelle-removebg-preview.png": "/Akash-005-fs/ams-demo.git/static/media/borcelle-removebg-preview.82e387038f0d01468be2.png",
-    "index.html": "/Akash-005-fs/ams-demo.git/index.html",
-    "main.739840c1.css.map": "/Akash-005-fs/ams-demo.git/static/css/main.739840c1.css.map",
-    "main.51cee23c.js.map": "/Akash-005-fs/ams-demo.git/static/js/main.51cee23c.js.map",
-    "453.b3889c6c.chunk.js.map": "/Akash-005-fs/ams-demo.git/static/js/453.b3889c6c.chunk.js.map"
+    "main.css": "/ams-demo/static/css/main.c25aa27d.css",
+    "main.js": "/ams-demo/static/js/main.b02560e8.js",
+    "static/js/453.b3889c6c.chunk.js": "/ams-demo/static/js/453.b3889c6c.chunk.js",
+    "static/media/borcelle.png": "/ams-demo/static/media/borcelle.7f07ad0c3f4213ebf561.png",
+    "static/media/borcelle-removebg-preview.png": "/ams-demo/static/media/borcelle-removebg-preview.82e387038f0d01468be2.png",
+    "index.html": "/ams-demo/index.html",
+    "main.c25aa27d.css.map": "/ams-demo/static/css/main.c25aa27d.css.map",
+    "main.b02560e8.js.map": "/ams-demo/static/js/main.b02560e8.js.map",
+    "453.b3889c6c.chunk.js.map": "/ams-demo/static/js/453.b3889c6c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.739840c1.css",
-    "static/js/main.51cee23c.js"
+    "static/css/main.c25aa27d.css",
+    "static/js/main.b02560e8.js"
   ]
 }
